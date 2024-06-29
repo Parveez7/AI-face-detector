@@ -25,7 +25,7 @@ This is a simple AI face detector that captures video from a webcam and detects 
 1. Run the face detector script:
    ```bash
    python main.py
-2.The script will start capturing video from your webcam and will display a window with the video feed. Detected faces will be highlighted with a square.
+2. The script will start capturing video from your webcam and will display a window with the video feed. Detected faces will be highlighted with a square.
 ## Code Overview
 
 The main functionality is implemented in `main.py`. Here is a brief overview of the key parts:
